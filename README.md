@@ -5,5 +5,4 @@ Portfólio de apresentação sobre mim e alguns projetos que desenvolvi. Esse po
 - Bootstrap
 - HTML
 - CSS
-- JavaScript
 - PhotoShop
